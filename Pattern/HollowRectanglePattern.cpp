@@ -1,3 +1,8 @@
+/*     * * * *
+       *     *      Hollow Rectangle Pattern
+       *     *
+       * * * *      */
+
 #include <iostream>
 using namespace std;
 
